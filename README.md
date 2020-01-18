@@ -1,2 +1,2 @@
 # TensorflowInMachineLearning
-# It's a machine learning project on app. 
+It's a machine learning project on app. 
