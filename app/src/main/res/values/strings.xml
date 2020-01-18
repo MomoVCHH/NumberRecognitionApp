@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number Recognition</string>
+    <string name="image_view_content_description">Image</string>
+    <string name="predict_button_text">The number is ...</string>
+    <string name="next_image_button_text">Next Image</string>
+    <string name="text_view_text">The results ...</string>
+</resources>
