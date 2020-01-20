@@ -1,7 +1,7 @@
 # TensorFlow In Machine Learning
 It's a machine learning project on app. 
 
-The project is about recognizing the number.Through the concept of machine learning, the machine is trained to identify every numbers correctly. For this project, there are totally ten numbers, from zero to nine. 
+The project is about recognizing the number.Through the concept of machine learning, the machine is trained to identify every numbers correctly. For this project, there are totally ten numbers, from zero to nine. In the program, the accuracy of number recognition is approximately 90%.
 
 
 In order to use this app program, you need the following softwares:
